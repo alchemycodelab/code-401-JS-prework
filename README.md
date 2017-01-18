@@ -17,8 +17,8 @@ For messaging and communication, we will be using Ryver. You will receive an inv
 
 ### Optional Pre-work
 If you have time and want to review some Javscript fundamentals there are two main resources you should look at.  A few chapters from the You Don't Know JS series are sectioned off as reading assignments but it's fine if you want to get a head start:
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS) (specifically, the "Scopes and Closures" and "this & Object Prototypes" books)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 If you are testing into 401 or need additional practice on GIT, check out the following Udemy course.  This should help get you up to speed:
 - [Udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
