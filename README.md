@@ -1,4 +1,4 @@
-# Code Fellows PDX Code 401JS
+# Code 401JS
 
 ## Advanced Software Development in Full-Stack JavaScript
 
