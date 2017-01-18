@@ -2,14 +2,18 @@
 
 ### Pre-work
 
-This is the mandatory pre-work for Code 401: JavaScript that counts as 5% of your total course grade. When this course nears its start date, you will be invited to an online portal named Canvas where you can confirm that you've completed this prework and claim credit.
+This is the pre-work for Code 401: JavaScript.
 
-Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it. Allow yourself more time than you think you will need so that you can take breaks and not get overwhelmed.
+Start on the pre-work as soon as you can and be sure to allow yourself plenty of time to complete it.
 
-##### 1. Setup your computer with Terminal, Git, GitHub, and Slack
-- [Download Slack](https://slack.com/downloads/osx)
+##### 1. Setup your computer with Terminal, Git, GitHub, VSCode, and Ryver
 
-##### 2. Install Node the right way, following the instructions found [here](https://github.com/codefellows/code-401-JS-prework/blob/master/install-node.md)
+From Code 301, you should already have Terminal and Git installed. As well as a Github account. (If you are testing in and have any questions about this, please contact us).
+
+For Code 401, we will be using the [VSCode](https://code.visualstudio.com/download) code editor. It has an integrated debugger that works out-of-the-box with node.js, and we have found it to be generally more stable and more performant than Atom.
+
+For messaging and communication, we will be using Ryver. You will receive an invite and while Ryver has a web browser app, we recommend [downloading](https://ryver.com/downloads/) and installing the desktop app. They also have mobile apps available.
+
 
 ### Optional Pre-work
 If you have time and want to review some Javscript fundamentals there are two main resources you should look at.  A few chapters from the You Don't Know JS series are sectioned off as reading assignments but it's fine if you want to get a head start:
