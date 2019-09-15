@@ -1,6 +1,4 @@
-# Code 401JS
-
-## Advanced Software Development in Full-Stack JavaScript
+Code 401: Advanced Software Development in Full-Stack JavaScript
 
 ### Pre-work
 
@@ -12,13 +10,43 @@ From Code 301, you should already have Terminal and Git installed, as well as a 
 
 For Code 401, we will be using the [VSCode](https://code.visualstudio.com/download) as our IDE code editor. It has an integrated debugger that works out-of-the-box with node.js, and we have found it to be generally more stable and more performant than Atom.
 
-For messaging and communication, we will be using Ryver. You will receive an invite and while Ryver has a web browser app, we recommend [downloading](https://ryver.com/downloads/) and installing the desktop app. They also have mobile apps available.
+**Note: All prework is due before start of first class**
+
+### Career Coaching Checklist
+- [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/Code_401/Status_Report)
+
+### Set Up Your Computer
+- [ ] [Configure Bash](configure-bash.md)
+- [ ] [Download and setup Slack](https://slack.com/downloads/osx)
+- [ ] [Setup Git](install-git.md)
+- [ ] [Install Node and NVM](install-node.md)
+- [ ] [Setup WSL](https://github.com/codefellows/code-201-prework/blob/master/prework/windows/01_preface.md) -- Windows users only
+- [ ] [Install Mongo](install-mongo.md)
+- [ ] [Install REST Clients](install-rest-clients.md)
 
 
-### Optional Pre-work
-If you have time and want to review some Javscript fundamentals there are two main resources you should look at.  A few chapters from the You Don't Know JS series are sectioned off as reading assignments but it's fine if you want to get a head start:
-- [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS) (specifically, the "Scopes and Closures" and "this & Object Prototypes" books)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
+### Create Developer / Online Accounts
+- [ ] [Heroku](account-setup-heroku.md)
+- [ ] [Travis](account-setup-travis.md)
+- [ ] [Google](account-setup-google.md)
+- [ ] [NPM](account-setup-npm.md)
+- [ ] [AWS](account-setup-aws.md)
+- [ ] [REPL.it](https://repl.it/) (Optional)
+- [ ] [Code Sandbox](https://codesandbox.io/) (Optional)
 
-If you are testing into 401 or need additional practice on GIT, check out the following Udemy course.  This should help get you up to speed:
-- [Udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+### Up your JavaScript Game (Code Challenges)
+- [ ] [Code 301 Code Challenges and Shred Talks](301-code-challenges.md)
+- [ ] [ES6 Katas](ES6-katas.md)
+
+### Reading and Reference Materials
+Download/Purchase/Bookmark the following books. We will be assigning readings from them throughout the course.
+- [ ] [ES6 Features](http://es6-features.org/)
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [ ] [You Don't Know JS series](https://github.com/getify/You-Dont-Know-JS) (specifically, the "Scopes and Closures" and "this & Object Prototypes" books)
+
+### Complete a full-cycle application deployment
+
+Practice deploying, testing, and submitting your lab assignments.  In this assignment, you will create a new "lab" assignment, deploy it, and properly submit it to canvas as you will do throughout the course. Tutorial video included...
+
+- [ ] [Deployment Workshop](./deployment-workshop/)
